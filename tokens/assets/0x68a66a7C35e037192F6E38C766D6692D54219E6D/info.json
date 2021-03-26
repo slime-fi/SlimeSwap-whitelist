@@ -1,0 +1,25 @@
+{
+    "name": "VOODOO",
+    "website": "https://voodoo.supra.finance/",
+    "source_code": "",
+    "white_paper": "",
+    "description": "",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/supra_finance",
+            "handle": "SupraFinance"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/supraVoodoo",
+            "handle": "SupraVoodoo"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x68a66a7c35e037192f6e38c766d6692d54219e6d",
+    "type": "BEP20",
+    "symbol": "VOODOO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x68a66a7c35e037192f6e38c766d6692d54219e6d"
+}

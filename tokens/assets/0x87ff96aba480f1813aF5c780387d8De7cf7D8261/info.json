@@ -1,0 +1,25 @@
+{
+    "name": "Alice",
+    "website": "https://www.myneighboralice.com/",
+    "source_code": "",
+    "white_paper": "",
+    "description": "My Neighbor Alice is a multiplayer builder game, where anyone can buy and own virtual islands, collect and build exciting items and meet new friends. Inspired by successful games such as Animal Crossing, the game combines the best of the two worlds - a fun narrative for regular players who want to enjoy the gameplay experience as well as an ecosystem for players who want to collect and trade NFT:s, even if they have no idea what an NFT is. ",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/MyNeighborAlice/",
+            "handle": "MyNeighborAlice"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/MyNeighborAlice",
+            "handle": "MyNeighborAlice"
+        }
+    ],
+    "explorer": "https://bscscan.com/address/0xac51066d7bec65dc4589368da368b212745d63e8",
+    "type": "BEP20",
+    "symbol": "ALICE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xAC51066d7bEC65Dc4589368da368b212745d63E8"
+}
