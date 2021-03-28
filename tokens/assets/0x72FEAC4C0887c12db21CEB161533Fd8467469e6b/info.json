@@ -1,0 +1,25 @@
+{
+    "name": "DeadSoul",
+    "website": "https://apoyield.com/",
+    "source_code": "",
+    "white_paper": "",
+    "description": "",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/ApoYield",
+            "handle": "APOYield"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/APOYield",
+            "handle": "APOYield"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x72feac4c0887c12db21ceb161533fd8467469e6b",
+    "type": "BEP20",
+    "symbol": "DSL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x72feac4c0887c12db21ceb161533fd8467469e6b"
+}
