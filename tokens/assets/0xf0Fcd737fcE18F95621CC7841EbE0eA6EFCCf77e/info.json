@@ -1,0 +1,25 @@
+{
+    "name": "TreeDefi",
+    "website": "http://www.treedefi.com/",
+    "source_code": "",
+    "white_paper": "",
+    "description": "",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "http://www.twitter.com/treedefi",
+            "handle": "TreeDefi"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/treedefi",
+            "handle": "TreeDefi"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0xf0fcd737fce18f95621cc7841ebe0ea6efccf77e",
+    "type": "BEP20",
+    "symbol": "TREE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf0fcd737fce18f95621cc7841ebe0ea6efccf77e"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Palm",
+    "website": "https://yieldbay.finance/",
+    "source_code": "",
+    "white_paper": "",
+    "description": "",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/yieldbay",
+            "handle": "YieldBay"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/yieldbay",
+            "handle": "YieldBay"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x9768e5b2d8e761905bc81dfc554f9437a46cdcc6",
+    "type": "BEP20",
+    "symbol": "PALM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9768e5b2d8e761905bc81dfc554f9437a46cdcc6"
+}

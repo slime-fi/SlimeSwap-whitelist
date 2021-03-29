@@ -1,0 +1,25 @@
+{
+    "name": "BlueToken",
+    "website": "https://blueswap.finance/",
+    "source_code": "",
+    "white_paper": "",
+    "description": "",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/FinancePalette",
+            "handle": "FinancePalette"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/blueswapfinance",
+            "handle": "BlueswapFinance"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x36c0556c2b15aed79f842675ff030782738ef9e8",
+    "type": "BEP20",
+    "symbol": "BLUE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x36c0556c2b15aed79f842675ff030782738ef9e8"
+}
