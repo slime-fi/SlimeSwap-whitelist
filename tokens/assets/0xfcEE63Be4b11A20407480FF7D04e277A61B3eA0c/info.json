@@ -1,0 +1,25 @@
+{
+    "name": "Supra Dollar",
+    "website": "https://dollar.supra.finance/",
+    "source_code": "",
+    "white_paper": "",
+    "description": "",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/supra_finance",
+            "handle": "supra_finance"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/suprafinance",
+            "handle": "supraFinance,"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0xfcee63be4b11a20407480ff7d04e277a61b3ea0c",
+    "type": "BEP20",
+    "symbol": "SDO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xfcee63be4b11a20407480ff7d04e277a61b3ea0c"
+}

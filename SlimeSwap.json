@@ -10,6 +10,62 @@
   "logoURI": "https://slime.finance/logo.png",
   "keywords": ["slime", "default"],
   "tokens": [
+  
+  {
+      "name": "Supra Dollar",
+      "symbol": "SDO",
+      "address": "0xfcee63be4b11a20407480ff7d04e277a61b3ea0c",
+      "chainId": 56,
+      "decimals": 18
+    },  {
+      "name": "Supra Dollar Share",
+      "symbol": "SSO",
+      "address": "0x8408A35Cd56534B06Dfc085551f072A28212f364",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "RUNE",
+      "symbol": "RUNE",
+      "address": "0xa9776b590bfc2f956711b3419910a5ec1f63153e",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "SEED",
+      "symbol": "SEED",
+      "address": "0x40b34cc972908060d6d527276e17c105d224559d",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "TreeDefi",
+      "symbol": "TREE",
+      "address": "0xf0fcd737fce18f95621cc7841ebe0ea6efccf77e",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "BlueToken",
+      "symbol": "BLUE",
+      "address": "0x36c0556c2b15aed79f842675ff030782738ef9e8",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Palm",
+      "symbol": "PALM",
+      "address": "0x9768e5b2d8e761905bc81dfc554f9437a46cdcc6",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "APOyield SOULS",
+      "symbol": "SOUL",
+      "address": "0x67d012F731c23F0313CEA1186d0121779c77fcFE",
+      "chainId": 56,
+      "decimals": 8
+    },
   {
       "name": "ALICE",
       "symbol": "ALICE",
