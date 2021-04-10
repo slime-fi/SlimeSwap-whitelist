@@ -10,7 +10,14 @@
   "logoURI": "https://slime.finance/logo.png",
   "keywords": ["slime", "default"],
   "tokens": [
-  
+     {
+      "name": "SLIME V2",
+      "symbol": "SLIME V2 (SLIME)",
+      "address": "0x23b06097F8FE2DD9D3dF094D3ee8319Daa8756c1",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI" :"https://v2.slime.finance/coin.png"
+    },
   {
       "name": "Supra Dollar",
       "symbol": "SDO",

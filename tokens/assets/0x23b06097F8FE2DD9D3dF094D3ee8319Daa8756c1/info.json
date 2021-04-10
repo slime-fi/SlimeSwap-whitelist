@@ -1,0 +1,25 @@
+{
+    "name": "Slime V2",
+    "website": "https://app.slime.finance/",
+    "source_code": "",
+    "white_paper": "",
+    "description": "",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/slimefinance",
+            "handle": "SlimeFinance"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/slimefinance",
+            "handle": "SlimeFinance,"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x23b06097F8FE2DD9D3dF094D3ee8319Daa8756c1",
+    "type": "BEP20",
+    "symbol": "SLIME",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x23b06097F8FE2DD9D3dF094D3ee8319Daa8756c1"
+}
