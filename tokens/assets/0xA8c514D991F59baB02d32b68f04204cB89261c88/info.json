@@ -1,0 +1,25 @@
+{
+    "name": "Safe protocol",
+    "website": "https://safeprotocol.io/",
+    "source_code": "",
+    "white_paper": "",
+    "description": "",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/SafeProtocol",
+            "handle": "SafeProtocol"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/SafeProtocolANN",
+            "handle": "SafeProtocol,"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0xa8c514d991f59bab02d32b68f04204cb89261c88",
+    "type": "BEP20",
+    "symbol": "SAFEP"
+    "decimals": 8,
+    "status": "active",
+    "id": "0xa8c514d991f59bab02d32b68f04204cb89261c88"
+}
